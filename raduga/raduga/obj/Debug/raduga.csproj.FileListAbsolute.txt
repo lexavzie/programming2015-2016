@@ -1,0 +1,6 @@
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\bin\Debug\raduga.exe.config
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\bin\Debug\raduga.exe
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\bin\Debug\raduga.pdb
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\obj\Debug\raduga.csprojResolveAssemblyReference.cache
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\obj\Debug\raduga.exe
+C:\Users\vzie\Documents\SharpDevelop Projects\raduga\raduga\obj\Debug\raduga.pdb
